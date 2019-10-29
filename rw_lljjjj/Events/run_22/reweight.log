@@ -1,0 +1,134 @@
+No module named madgraph
+/home/storage/Users/xuyue/HeavyHiggs/plot_heavy/MG5_aMC_v2_5_4/TEDWORK/rw_lljjjj/bin/internal/me5_logging.conf
+************************************************************
+*                                                          *
+*                      W E L C O M E to                    *
+*             M A D G R A P H 5 _ a M C @ N L O            *
+*                      M A D E V E N T                     *
+*                                                          *
+*                 *                       *                *
+*                   *        * *        *                  *
+*                     * * * * 5 * * * *                    *
+*                   *        * *        *                  *
+*                 *                       *                *
+*                                                          *
+*         VERSION 2.5.4                 20xx-xx-xx         *
+*                                                          *
+*    The MadGraph5_aMC@NLO Development Team - Find us at   *
+*    https://server06.fynu.ucl.ac.be/projects/madgraph     *
+*                                                          *
+*               Type 'help' for in-line help.              *
+*                                                          *
+************************************************************
+INFO: load configuration from /home/storage/Users/xuyue/HeavyHiggs/plot_heavy/MG5_aMC_v2_5_4/TEDWORK/rw_lljjjj/Cards/me5_configuration.txt  
+INFO: load configuration from /home/storage/Users/xuyue/HeavyHiggs/plot_heavy/MG5_aMC_v2_5_4/input/mg5_configuration.txt  
+INFO: load configuration from /home/storage/Users/xuyue/HeavyHiggs/plot_heavy/MG5_aMC_v2_5_4/TEDWORK/rw_lljjjj/Cards/me5_configuration.txt  
+Using default text editor "vi". Set another one in ./input/mg5_configuration.txt
+Using default eps viewer "evince". Set another one in ./input/mg5_configuration.txt
+Using default web browser "firefox". Set another one in ./input/mg5_configuration.txt
+reweight /home/storage/Users/xuyue/HeavyHiggs/plot_heavy/MG5_aMC_v2_5_4/TEDWORK/rw_lljjjj/Events/run_22/unweighted_events.lhe.gz_0.lhe -from_cards --multicore=create
+INFO: Extracting the banner ... 
+INFO: process: p p > z hh, z > l- l+, hh > j j j j 
+INFO: options:  
+INFO: Running Reweighting 
+We are in mode create
+launch --rwgt_name=fw0fww9000
+INFO: detected model: SMwithHeavyScalarDim4Dim6_NoDecay_UFO/. Loading... 
+INFO: generating the square matrix element for reweighting 
+INFO: generate p p > z hh, z > l- l+, hh > j j j j ; 
+INFO: Done 11.28 
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LC_CTYPE = "UTF-8",
+	LANG = "en_US.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LC_CTYPE = "UTF-8",
+	LANG = "en_US.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+Fontconfig warning: ignoring UTF-8: not a valid region tag
+Fontconfig warning: ignoring UTF-8: not a valid region tag
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LC_CTYPE = "UTF-8",
+	LANG = "en_US.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+Fontconfig warning: ignoring UTF-8: not a valid region tag
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LC_CTYPE = "UTF-8",
+	LANG = "en_US.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LC_CTYPE = "UTF-8",
+	LANG = "en_US.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LC_CTYPE = "UTF-8",
+	LANG = "en_US.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LC_CTYPE = "UTF-8",
+	LANG = "en_US.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+[1;34mWARNING:  REWEIGHTING: original card and new card are identical. Run it due to debug mode [0m
+INFO: starts to compute weight for events with the following modification to the param_card: 
+INFO:  
+INFO: Event nb 0 current time: 14h44 
+INFO: Event nb 10  22.8s  
+INFO: Event nb 20  42.4s  
+INFO: Event nb 30  48.1s  
+INFO: Event nb 40  51.6s  
+INFO: Event nb 50  57.4s  
+INFO: Event nb 60  1m 0s  
+INFO: Event nb 70  1m 3s  
+INFO: Event nb 80  1m 11s  
+INFO: Event nb 90  1m 20s  
+INFO: Event nb 100  1m 26s  
+INFO: Event nb 200  1m 49s  
+INFO: Event nb 300  2m 7s  
+INFO: Event nb 400  2m 10s  
+INFO: Event nb 500  2m 19s  
+INFO: Event nb 600  2m 19s  
+INFO: Event nb 700  2m 20s  
+INFO: Event nb 800  2m 23s  
+INFO: Event nb 900  2m 23s  
+INFO: Event nb 1000  2m 24s  
+INFO: Event nb 2000  2m 34s  
+INFO: Event nb 3000  2m 38s  
+INFO: Event nb 4000  2m 39s  
+INFO: All event done  (nb_event: 5000)  2m 40s  
+INFO: Event /home/storage/Users/xuyue/HeavyHiggs/plot_heavy/MG5_aMC_v2_5_4/TEDWORK/rw_lljjjj/Events/run_22/unweighted_events.lhe.gz_0.lhe have now the additional weight 
+INFO: quit rwgt 
+quit
+INFO: storing files of previous run 
+INFO: Done 
+INFO:  
+ 
+INFO:  
+ 
