@@ -1,0 +1,7 @@
+P1_qq_zhh_z_ll_hh_qqqq
+P2_qq_zhh_z_qq_hh_llqq
+P3_qq_zhh_z_qq_hh_llqq
+P4_qq_wmhh_wm_qq_hh_llqq
+P5_qq_wmhh_wm_qq_hh_llqq
+P6_qq_wphh_wp_qq_hh_llqq
+P7_qq_wphh_wp_qq_hh_llqq
