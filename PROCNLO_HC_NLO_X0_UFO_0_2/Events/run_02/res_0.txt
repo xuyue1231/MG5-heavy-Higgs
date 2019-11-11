@@ -1,0 +1,19 @@
+
+
+Cross section per integration channel:
+P0_uxu_zx0_wpepemwm_no_a                1   1.75573904e-03    1.5820e-05       0.9010%  
+P0_uux_zx0_wpepemwm_no_a                1   1.74215364e-03    1.2534e-05       0.7195%  
+P0_dxd_zx0_wpepemwm_no_a                1   1.46399082e-03    1.2619e-05       0.8620%  
+P0_ddx_zx0_wpepemwm_no_a                1   1.45535213e-03    1.0138e-05       0.6966%  
+
+
+ABS cross section per integration channel:
+P0_uxu_zx0_wpepemwm_no_a                1   1.89707552e-03    1.6911e-05       0.8914%  
+P0_uux_zx0_wpepemwm_no_a                1   1.88223398e-03    1.3513e-05       0.7179%  
+P0_dxd_zx0_wpepemwm_no_a                1   1.58079355e-03    1.2927e-05       0.8178%  
+P0_ddx_zx0_wpepemwm_no_a                1   1.57080336e-03    1.1728e-05       0.7466%  
+
+Total ABS and 
+Total: 
+                      6.93090641e-03 +- 2.7807e-05  (4.0121e-01%)
+                      6.41723563e-03 +- 2.5873e-05  (4.0318e-01%) 

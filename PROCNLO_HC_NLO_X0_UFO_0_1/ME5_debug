@@ -1,0 +1,90 @@
+#************************************************************
+#*                    MadGraph5_aMC@NLO                     *
+#*                                                          *
+#*                *                       *                 *
+#*                  *        * *        *                   *
+#*                    * * * * 5 * * * *                     *
+#*                  *        * *        *                   *
+#*                *                       *                 *
+#*                                                          *
+#*                                                          *
+#*         VERSION 5.2.6.6               20xx-xx-xx         *
+#*                                                          *
+#*    The MadGraph5_aMC@NLO Development Team - Find us at   *
+#*    https://server06.fynu.ucl.ac.be/projects/madgraph     *
+#*                           and                            *
+#*                http://amcatnlo.cern.ch                   *
+#*                                                          *
+#************************************************************
+#*                                                          *
+#*               Command File for aMCatNLO                  *
+#*                                                          *
+#*     run as ./bin/aMCatNLO.py filename                    *
+#*                                                          *
+#************************************************************
+launch 
+Traceback (most recent call last):
+  File "/home/storage/Users/xuyue/HeavyHiggs/plot_heavy/MG5_aMC_v2_6_6/PROCNLO_HC_NLO_X0_UFO_0_1/bin/internal/extended_cmd.py", line 1514, in onecmd
+    return self.onecmd_orig(line, **opt)
+  File "/home/storage/Users/xuyue/HeavyHiggs/plot_heavy/MG5_aMC_v2_6_6/PROCNLO_HC_NLO_X0_UFO_0_1/bin/internal/extended_cmd.py", line 1463, in onecmd_orig
+    return func(arg, **opt)
+  File "/home/storage/Users/xuyue/HeavyHiggs/plot_heavy/MG5_aMC_v2_6_6/PROCNLO_HC_NLO_X0_UFO_0_1/bin/internal/amcatnlo_run_interface.py", line 1664, in do_launch
+    mode = self.ask_run_configuration(mode, options)
+  File "/home/storage/Users/xuyue/HeavyHiggs/plot_heavy/MG5_aMC_v2_6_6/PROCNLO_HC_NLO_X0_UFO_0_1/bin/internal/amcatnlo_run_interface.py", line 5368, in ask_run_configuration
+    self.ask_edit_cards(cards, plot=False, first_cmd=first_cmd)
+  File "/home/storage/Users/xuyue/HeavyHiggs/plot_heavy/MG5_aMC_v2_6_6/PROCNLO_HC_NLO_X0_UFO_0_1/bin/internal/common_run_interface.py", line 966, in ask_edit_cards
+    banner=banner)
+  File "/home/storage/Users/xuyue/HeavyHiggs/plot_heavy/MG5_aMC_v2_6_6/PROCNLO_HC_NLO_X0_UFO_0_1/bin/internal/common_run_interface.py", line 1038, in ask_edit_card_static
+    cards=cards, mode=mode, **opt)
+  File "/home/storage/Users/xuyue/HeavyHiggs/plot_heavy/MG5_aMC_v2_6_6/PROCNLO_HC_NLO_X0_UFO_0_1/bin/internal/extended_cmd.py", line 1128, in ask
+    fct=question_instance, fct_timeout=fct_timeout)
+  File "/home/storage/Users/xuyue/HeavyHiggs/plot_heavy/MG5_aMC_v2_6_6/PROCNLO_HC_NLO_X0_UFO_0_1/bin/internal/extended_cmd.py", line 1728, in timed_input
+    result = fct(question)
+  File "/home/storage/Users/xuyue/HeavyHiggs/plot_heavy/MG5_aMC_v2_6_6/PROCNLO_HC_NLO_X0_UFO_0_1/bin/internal/extended_cmd.py", line 2091, in __call__
+    return self.cmdloop()
+  File "/home/storage/Users/xuyue/HeavyHiggs/plot_heavy/MG5_aMC_v2_6_6/PROCNLO_HC_NLO_X0_UFO_0_1/bin/internal/extended_cmd.py", line 2259, in cmdloop
+    super(SmartQuestion,self).cmdloop(intro)
+  File "/home/storage/Users/xuyue/HeavyHiggs/plot_heavy/MG5_aMC_v2_6_6/PROCNLO_HC_NLO_X0_UFO_0_1/bin/internal/extended_cmd.py", line 157, in cmdloop
+    line = raw_input(self.prompt)
+KeyboardInterrupt
+Value of current Options:
+              text_editor 	:	None
+              web_browser 	:	None
+        cluster_temp_path 	:	None
+                  timeout 	:	60
+       cluster_local_path 	:	None
+            cluster_queue 	:	None
+         madanalysis_path 	:	None
+                   lhapdf 	:	/home/storage/Users/xuyue/HeavyHiggs/plot_heavy/MG5_aMC_v2_6_6/HEPTools/lhapdf6/bin/lhapdf-config
+             cluster_size 	:	100
+           cluster_memory 	:	None
+                    pjfry 	:	None
+    cluster_status_update 	:	(600, 30)
+             cluster_time 	:	None
+            f2py_compiler 	:	None
+                    ninja 	:	/home/storage/Users/xuyue/HeavyHiggs/plot_heavy/MG5_aMC_v2_6_6/HEPTools/lib
+               hepmc_path 	:	None
+             pythia8_path 	:	None
+                hwpp_path 	:	None
+   automatic_html_opening 	:	True
+       cluster_retry_wait 	:	300
+             stdout_level 	:	None
+          pythia-pgs_path 	:	None
+                 mg5_path 	:	/home/storage/Users/xuyue/HeavyHiggs/plot_heavy/MG5_aMC_v2_6_6
+                  td_path 	:	None
+             delphes_path 	:	None
+              thepeg_path 	:	None
+             cluster_type 	:	condor
+        madanalysis5_path 	:	None
+      exrootanalysis_path 	:	None
+         fortran_compiler 	:	None
+                  nb_core 	:	48
+                  collier 	:	/home/storage/Users/xuyue/HeavyHiggs/plot_heavy/MG5_aMC_v2_6_6/HEPTools/lib
+              auto_update 	:	7
+         cluster_nb_retry 	:	1
+               eps_viewer 	:	None
+             syscalc_path 	:	None
+                    golem 	:	None
+             cpp_compiler 	:	None
+      notification_center 	:	True
+                 run_mode 	:	2

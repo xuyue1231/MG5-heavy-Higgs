@@ -1,0 +1,34 @@
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+c      written by the UFO converter
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+      DOUBLE PRECISION G
+      COMMON/STRONG/ G
+
+      DOUBLE COMPLEX GAL(2)
+      COMMON/WEAK/ GAL
+
+      DOUBLE PRECISION MU_R
+      COMMON/RSCALE/ MU_R
+
+      DOUBLE PRECISION NF
+      PARAMETER(NF=4)
+
+      DOUBLE PRECISION MDL_MT,MDL_MW,MDL_MZ,MDL_MTA,MDL_MB,MDL_MX0
+
+      COMMON/MASSES/ MDL_MT,MDL_MW,MDL_MZ,MDL_MTA,MDL_MB,MDL_MX0
+
+
+      DOUBLE PRECISION MDL_WX0,MDL_WZ,MDL_WW,MDL_WT
+
+      COMMON/WIDTHS/ MDL_WX0,MDL_WZ,MDL_WW,MDL_WT
+
+
+      DOUBLE COMPLEX R2_UUZ_V2, R2_UUZ_V5, GC_5, GC_3005A, GC_3005H2,
+     $  GC_3005H3, GC_3005H4, GC_3007A, GC_3007H2, GC_3007H3, GC_22,
+     $  GC_23, GC_24, GC_3005H1, GC_3007H1
+
+      COMMON/COUPLINGS/ R2_UUZ_V2, R2_UUZ_V5, GC_5, GC_3005A,
+     $  GC_3005H2, GC_3005H3, GC_3005H4, GC_3007A, GC_3007H2,
+     $  GC_3007H3, GC_22, GC_23, GC_24, GC_3005H1, GC_3007H1
+

@@ -1,0 +1,93 @@
+
+   --------------------------------------------------------------
+      Summary:
+      Process p p > z x0 > z e+ e- z /a [QCD] ; p p > z x0 > z mu+ mu- z /a [QCD]
+      Run at p-p collider (6500.0 + 6500.0 GeV)
+      Number of events generated: 10000
+      Total cross section: 5.239e-03 +- 7.2e-06 pb
+   --------------------------------------------------------------
+      Scale variation (computed from LHE events):
+          Dynamical_scale_choice -1 (envelope of 9 values): 
+              5.235e-03 pb  +1.8% -1.5%
+   --------------------------------------------------------------
+
+
+  Number of loop ME evaluations (by MadLoop): 30666
+    Stability unknown:                   0
+    Stable PS point:                     30666
+    Unstable PS point (and rescued):     0
+    Unstable PS point (and not rescued): 0
+    Only double precision used:          30666
+    Quadruple precision used:            0
+    Initialization phase-space points:   0
+    Reduction methods used:
+      > Ninja (double precision)         30666
+
+  Statistics on virtual integration optimization : 
+  Could not find statistics on the integration optimization. 
+
+  Inclusive timing profile :
+    Overall slowest channel          0:01:34 (P0_ddx_zx0_zepemz_no_a/GF2 [step 1])
+    Average channel running time     0:00:49
+    Aggregated total running time    0:19:54
+  Timing profile for <Reals_evaluation> :
+    Overall fraction of time         31.691 %
+    Largest fraction of time         32.201 % (P0_uxu_zx0_zepemz_no_a/GF2 [step 1])
+    Smallest fraction of time        29.252 % (P0_uux_zx0_zepemz_no_a/GF2 [step 2])
+  Timing profile for <MCsubtraction> :
+    Overall fraction of time         22.573 %
+    Largest fraction of time         23.196 % (P0_uux_zx0_zepemz_no_a/GF2 [step 1])
+    Smallest fraction of time        20.495 % (P0_uxu_zx0_zepemz_no_a/GF1 [step 2])
+  Timing profile for <Counter_terms> :
+    Overall fraction of time         16.423 %
+    Largest fraction of time         16.956 % (P0_dxd_zx0_zepemz_no_a/GF2 [step 0])
+    Smallest fraction of time        14.584 % (P0_ddx_zx0_zepemz_no_a/GF1 [step 2])
+  Timing profile for <N1body_prefactor> :
+    Overall fraction of time         7.706 %
+    Largest fraction of time         7.862 % (P0_dxd_zx0_zepemz_no_a/GF1 [step 1])
+    Smallest fraction of time        7.041 % (P0_uux_zx0_zepemz_no_a/GF2 [step 2])
+  Timing profile for <Nbody_prefactor> :
+    Overall fraction of time         7.562 %
+    Largest fraction of time         7.674 % (P0_uxu_zx0_zepemz_no_a/GF2 [step 0])
+    Smallest fraction of time        6.903 % (P0_dxd_zx0_zepemz_no_a/GF1 [step 2])
+  Timing profile for <Born> :
+    Overall fraction of time         7.382 %
+    Largest fraction of time         7.496 % (P0_dxd_zx0_zepemz_no_a/GF1 [step 1])
+    Smallest fraction of time        6.752 % (P0_uux_zx0_zepemz_no_a/GF2 [step 2])
+  Timing profile for <Other_tasks> :
+    Overall fraction of time         3.559 %
+    Largest fraction of time         6.629 % (P0_dxd_zx0_zepemz_no_a/GF1 [step 2])
+    Smallest fraction of time        3.236 % (P0_dxd_zx0_zepemz_no_a/GF1 [step 1])
+  Timing profile for <Adding_alphas_pdf> :
+    Overall fraction of time         1.444 %
+    Largest fraction of time         1.594 % (P0_uux_zx0_zepemz_no_a/GF2 [step 0])
+    Smallest fraction of time        1.394 % (P0_uxu_zx0_zepemz_no_a/GF2 [step 2])
+  Timing profile for <Integrated_CT> :
+    Overall fraction of time         0.545 %
+    Largest fraction of time         0.875 % (P0_uux_zx0_zepemz_no_a/GF2 [step 2])
+    Smallest fraction of time        0.508 % (P0_dxd_zx0_zepemz_no_a/GF1 [step 2])
+  Timing profile for <Applying_cuts> :
+    Overall fraction of time         0.409 %
+    Largest fraction of time         0.444 % (P0_dxd_zx0_zepemz_no_a/GF1 [step 0])
+    Smallest fraction of time        0.363 % (P0_uxu_zx0_zepemz_no_a/GF1 [step 2])
+  Timing profile for <Write_events> :
+    Overall fraction of time         0.345 %
+    Largest fraction of time         4.883 % (P0_dxd_zx0_zepemz_no_a/GF1 [step 2])
+    Smallest fraction of time        0.000 % (P0_ddx_zx0_zepemz_no_a/GF1 [step 0])
+  Timing profile for <Virtuals> :
+    Overall fraction of time         0.236 %
+    Largest fraction of time         0.631 % (P0_uux_zx0_zepemz_no_a/GF2 [step 0])
+    Smallest fraction of time        0.050 % (P0_ddx_zx0_zepemz_no_a/GF1 [step 1])
+  Timing profile for <Sum_ident_contr> :
+    Overall fraction of time         0.124 %
+    Largest fraction of time         0.134 % (P0_dxd_zx0_zepemz_no_a/GF1 [step 0])
+    Smallest fraction of time        0.115 % (P0_dxd_zx0_zepemz_no_a/GF1 [step 2])
+  Timing profile for <Pick_unwgt> :
+    Overall fraction of time         0.001 %
+    Largest fraction of time         0.012 % (P0_uux_zx0_zepemz_no_a/GF2 [step 2])
+    Smallest fraction of time        0.000 % (P0_ddx_zx0_zepemz_no_a/GF1 [step 0])
+  Zero time record for Filling_plots.
+  Zero time record for Reweight_pdf.
+  Zero time record for Reweight_scale.
+  Zero time record for PS_Generation.
+  Zero time record for FxFx_cluster.

@@ -1,0 +1,12 @@
+
+   --------------------------------------------------------------
+      Summary:
+      Process p p > z x0 > w+ e+ e- w- /a [QCD] ; p p > z x0 > w+ mu+ mu- w- /a [QCD]
+      Run at p-p collider (6500.0 + 6500.0 GeV)
+      Number of events generated: 10000
+      Total cross section: 6.367e-03 +- 1.4e-05 pb
+   --------------------------------------------------------------
+      Scale variation (computed from LHE events):
+          Dynamical_scale_choice -1 (envelope of 9 values): 
+              6.326e-03 pb  +1.6% -1.4%
+   --------------------------------------------------------------

@@ -1,0 +1,27 @@
+
+
+Cross section per integration channel:
+P0_uux_zx0_zepemz_no_a                2   9.38172599e-04    4.9389e-06       0.5264%  
+P0_uxu_zx0_zepemz_no_a                2   9.32799274e-04    4.9388e-06       0.5295%  
+P0_uxu_zx0_zepemz_no_a                1   4.91743749e-04    4.2728e-06       0.8689%  
+P0_ddx_zx0_zepemz_no_a                2   7.90939379e-04    4.4954e-06       0.5684%  
+P0_dxd_zx0_zepemz_no_a                2   7.80157780e-04    4.1763e-06       0.5353%  
+P0_uux_zx0_zepemz_no_a                1   4.87185707e-04    3.9335e-06       0.8074%  
+P0_dxd_zx0_zepemz_no_a                1   4.07342161e-04    3.2519e-06       0.7983%  
+P0_ddx_zx0_zepemz_no_a                1   4.04444224e-04    2.6314e-06       0.6506%  
+
+
+ABS cross section per integration channel:
+P0_uux_zx0_zepemz_no_a                2   1.01365846e-03    5.3321e-06       0.5260%  
+P0_uxu_zx0_zepemz_no_a                2   1.00956699e-03    5.1207e-06       0.5072%  
+P0_uxu_zx0_zepemz_no_a                1   5.33038276e-04    4.8551e-06       0.9108%  
+P0_ddx_zx0_zepemz_no_a                2   8.52563164e-04    4.8149e-06       0.5648%  
+P0_dxd_zx0_zepemz_no_a                2   8.43711064e-04    4.5343e-06       0.5374%  
+P0_uux_zx0_zepemz_no_a                1   5.25857290e-04    4.3189e-06       0.8213%  
+P0_dxd_zx0_zepemz_no_a                1   4.40166559e-04    3.3524e-06       0.7616%  
+P0_ddx_zx0_zepemz_no_a                1   4.37216756e-04    2.8778e-06       0.6582%  
+
+Total ABS and 
+Total: 
+                      5.65577856e-03 +- 1.2655e-05  (2.2375e-01%)
+                      5.23278487e-03 +- 1.1733e-05  (2.2422e-01%) 
