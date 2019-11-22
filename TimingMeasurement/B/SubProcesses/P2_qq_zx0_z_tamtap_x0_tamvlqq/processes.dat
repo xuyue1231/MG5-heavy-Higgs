@@ -1,0 +1,16 @@
+1       u u~ > ta- ta+ ta- vt~ u d~,c c~ > ta- ta+ ta- vt~ u d~
+mirror  u~ u > ta- ta+ ta- vt~ u d~,c~ c > ta- ta+ ta- vt~ u d~
+2       u u~ > ta- ta+ ta- vt~ u s~,c c~ > ta- ta+ ta- vt~ u s~
+mirror  u~ u > ta- ta+ ta- vt~ u s~,c~ c > ta- ta+ ta- vt~ u s~
+3       u u~ > ta- ta+ ta- vt~ c d~,c c~ > ta- ta+ ta- vt~ c d~
+mirror  u~ u > ta- ta+ ta- vt~ c d~,c~ c > ta- ta+ ta- vt~ c d~
+4       u u~ > ta- ta+ ta- vt~ c s~,c c~ > ta- ta+ ta- vt~ c s~
+mirror  u~ u > ta- ta+ ta- vt~ c s~,c~ c > ta- ta+ ta- vt~ c s~
+5       d d~ > ta- ta+ ta- vt~ u d~,s s~ > ta- ta+ ta- vt~ u d~
+mirror  d~ d > ta- ta+ ta- vt~ u d~,s~ s > ta- ta+ ta- vt~ u d~
+6       d d~ > ta- ta+ ta- vt~ u s~,s s~ > ta- ta+ ta- vt~ u s~
+mirror  d~ d > ta- ta+ ta- vt~ u s~,s~ s > ta- ta+ ta- vt~ u s~
+7       d d~ > ta- ta+ ta- vt~ c d~,s s~ > ta- ta+ ta- vt~ c d~
+mirror  d~ d > ta- ta+ ta- vt~ c d~,s~ s > ta- ta+ ta- vt~ c d~
+8       d d~ > ta- ta+ ta- vt~ c s~,s s~ > ta- ta+ ta- vt~ c s~
+mirror  d~ d > ta- ta+ ta- vt~ c s~,s~ s > ta- ta+ ta- vt~ c s~

@@ -1,0 +1,807 @@
+ Process in group number            1
+ A PDF is used, so alpha_s(MZ) is going to be modified
+ Old value of alpha_s from param_card:   0.11839999999999999     
+  ****************************************
+ 
+       NNPDFDriver version 1.0.3
+   Grid: NNPDF23_lo_as_0130_qed_mem0.grid
+  ****************************************
+ New value of alpha_s from PDF nn23lo1:  0.13000000000000000     
+ Define smin to   499.70131599999996     
+ Warning: pt or E min of a jet should in general be >0
+ Warning: pt or E min of a jet should in general be >0
+ Warning: pt or E min of a jet should in general be >0
+ Warning: pt or E min of a jet should in general be >0
+ *****************************************************
+ *               MadGraph/MadEvent                   *
+ *        --------------------------------           *
+ *          http://madgraph.hep.uiuc.edu             *
+ *          http://madgraph.phys.ucl.ac.be           *
+ *          http://madgraph.roma2.infn.it            *
+ *        --------------------------------           *
+ *                                                   *
+ *          PARAMETER AND COUPLING VALUES            *
+ *                                                   *
+ *****************************************************
+
+  External Params
+  ---------------------------------
+  
+ mdl_cabi =   0.22773599999999999     
+ aEWM1 =    127.90000000000001     
+ mdl_Gf =    1.1663700000000000E-005
+ aS =   0.11839999999999999     
+ mdl_ymb =    4.7000000000000002     
+ mdl_ymt =    172.00000000000000     
+ mdl_ymtau =    1.7769999999999999     
+ mdl_Lambda =    5000.0000000000000     
+ mdl_ca =    1.0000000000000000     
+ mdl_kSM =    5.0000000000000003E-002
+ mdl_kHtt =    0.0000000000000000     
+ mdl_kAtt =    0.0000000000000000     
+ mdl_kHbb =    0.0000000000000000     
+ mdl_kAbb =    0.0000000000000000     
+ mdl_kHll =    0.0000000000000000     
+ mdl_kAll =    0.0000000000000000     
+ mdl_kHaa =    0.0000000000000000     
+ mdl_kAaa =    0.0000000000000000     
+ mdl_kHza =    0.0000000000000000     
+ mdl_kAza =    0.0000000000000000     
+ mdl_kHgg =    0.0000000000000000     
+ mdl_kAgg =    0.0000000000000000     
+ mdl_kHzz =  -0.52481000000000000     
+ mdl_kAzz =    0.0000000000000000     
+ mdl_kHww =  -0.52481000000000000     
+ mdl_kAww =    0.0000000000000000     
+ mdl_kHda =    0.0000000000000000     
+ mdl_kHdz =  -0.26240500000000000     
+ mdl_kHdwR =  -0.26240500000000000     
+ mdl_kHdwI =    0.0000000000000000     
+ mdl_kHHgg =    1.0000000000000000     
+ mdl_kAAgg =    1.0000000000000000     
+ mdl_kqa =    1.0000000000000000     
+ mdl_kqb =    1.0000000000000000     
+ mdl_kla =    1.0000000000000000     
+ mdl_klb =    1.0000000000000000     
+ mdl_kw1 =    1.0000000000000000     
+ mdl_kw2 =    1.0000000000000000     
+ mdl_kw3 =    0.0000000000000000     
+ mdl_kw4 =    0.0000000000000000     
+ mdl_kw5 =    0.0000000000000000     
+ mdl_kz1 =    0.0000000000000000     
+ mdl_kz3 =    1.0000000000000000     
+ mdl_kz5 =    0.0000000000000000     
+ mdl_kq =    1.0000000000000000     
+ mdl_kq3 =    1.0000000000000000     
+ mdl_kl =    1.0000000000000000     
+ mdl_kg =    1.0000000000000000     
+ mdl_ka =    1.0000000000000000     
+ mdl_kz =    1.0000000000000000     
+ mdl_kw =    1.0000000000000000     
+ mdl_kza =    0.0000000000000000     
+ mdl_MZ =    91.187600000000003     
+ mdl_MTA =    1.7769999999999999     
+ mdl_MT =    172.00000000000000     
+ mdl_MB =    4.7000000000000002     
+ mdl_MX0 =    600.00000000000000     
+ mdl_MX1 =    125.00000000000000     
+ mdl_MX2 =    125.00000000000000     
+ mdl_WZ =    2.4952000000000001     
+ mdl_WW =    2.0850000000000000     
+ mdl_WT =    1.5083359999999999     
+ mdl_WX0 =   0.15059000000000000     
+ mdl_WX1 =    4.0699999999999998E-003
+ mdl_WX2 =    4.0699999999999998E-003
+  Internal Params
+  ---------------------------------
+  
+ mdl_cos__cabi =   0.97418004031982097     
+ mdl_CKM1x1 =  ( 0.97418004031982097     ,  0.0000000000000000     )
+ mdl_sin__cabi =   0.22577256042856930     
+ mdl_CKM1x2 =  ( 0.22577256042856930     ,  0.0000000000000000     )
+ mdl_CKM2x1 =  (-0.22577256042856930     ,  0.0000000000000000     )
+ mdl_CKM2x2 =  ( 0.97418004031982097     ,  0.0000000000000000     )
+ mdl_ca__exp__2 =    1.0000000000000000     
+ mdl_sa =    0.0000000000000000     
+ mdl_complexi =  (  0.0000000000000000     ,  1.0000000000000000     )
+ mdl_kHdw =  (-0.26240500000000000     ,  0.0000000000000000     )
+ mdl_MZ__exp__2 =    8315.1783937600012     
+ mdl_MZ__exp__4 =    69142191.720053151     
+ mdl_sqrt__2 =    1.4142135623730951     
+ mdl_nb__2__exp__0_75 =    1.6817928305074290     
+ mdl_MX0__exp__2 =    360000.00000000000     
+ mdl_ca__exp__4 =    1.0000000000000000     
+ mdl_ca__exp__3 =    1.0000000000000000     
+ mdl_conjg__CKM1x1 =  ( 0.97418004031982097     , -0.0000000000000000     )
+ mdl_conjg__CKM1x2 =  ( 0.22577256042856930     , -0.0000000000000000     )
+ mdl_conjg__CKM2x1 =  (-0.22577256042856930     , -0.0000000000000000     )
+ mdl_conjg__CKM2x2 =  ( 0.97418004031982097     , -0.0000000000000000     )
+ mdl_conjg__kHdw =  (-0.26240500000000000     , -0.0000000000000000     )
+ mdl_aEW =    7.8186082877247844E-003
+ mdl_MW =    79.824359746197842     
+ mdl_sqrt__aEW =    8.8422894590285753E-002
+ mdl_ee =   0.31345100004952897     
+ mdl_MW__exp__2 =    6371.9284088904105     
+ mdl_sw2 =   0.23369913342182447     
+ mdl_cw =   0.87538612427783857     
+ mdl_sqrt__sw2 =   0.48342438232036300     
+ mdl_sw =   0.48342438232036300     
+ mdl_ad =  -0.12747442148678401     
+ mdl_al =   -1.2074027013887732E-002
+ mdl_an =   0.18517461872323218     
+ mdl_au =    6.9774224250335873E-002
+ mdl_bd =  -0.18517461872323218     
+ mdl_bl =  -0.18517461872323218     
+ mdl_bn =   0.18517461872323218     
+ mdl_bu =   0.18517461872323218     
+ mdl_gwwz =  -0.56759788318358417     
+ mdl_g1 =   0.35807170271074895     
+ mdl_gw =   0.64839716719502682     
+ mdl_vev =    246.22056907348590     
+ mdl_ee__exp__2 =    9.8251529432049817E-002
+ mdl_gAaa =    1.3477023594718659E-005
+ mdl_vev__exp__2 =    60624.568634871241     
+ mdl_cw__exp__2 =   0.76630086657817542     
+ mdl_gAza =    4.4999802188047602E-006
+ mdl_gHaa =    2.6392504539657372E-005
+ mdl_gHza =    3.9166441035016922E-005
+ mdl_lam =    2.9690932909411916     
+ mdl_yb =    2.6995322804122722E-002
+ mdl_yt =   0.98791394091683138     
+ mdl_ytau =    1.0206529494239589E-002
+ mdl_muH =    424.26406871192853     
+ mdl_sw__exp__2 =   0.23369913342182450     
+  Internal Params evaluated point by point
+  ----------------------------------------
+  
+ mdl_sqrt__aS =   0.34409301068170506     
+ mdl_G__exp__2 =    1.4878582807401259     
+ mdl_gAAgg =    3.1083017473614446E-007
+ mdl_gAgg =    7.6532782508744533E-005
+ mdl_gHgg =   -5.1021855005829691E-005
+ mdl_gHHgg =    2.0722011649076294E-007
+  Couplings of HC_UFO
+  ---------------------------------
+  
+        GC_10 =  -0.00000E+00   0.00000E+00
+        GC_13 =  -0.00000E+00  -0.20722E-06
+        GC_62 =   0.00000E+00   0.00000E+00
+        GC_64 =   0.00000E+00   0.00000E+00
+         GC_1 =  -0.00000E+00  -0.10448E+00
+         GC_2 =   0.00000E+00   0.20897E+00
+         GC_3 =  -0.00000E+00  -0.31345E+00
+         GC_9 =  -0.00000E+00  -0.00000E+00
+        GC_16 =  -0.00000E+00  -0.00000E+00
+        GC_17 =   0.00000E+00  -0.12074E-01
+        GC_19 =  -0.00000E+00   0.18517E+00
+        GC_21 =   0.00000E+00  -0.12747E+00
+        GC_22 =   0.00000E+00   0.69774E-01
+        GC_23 =  -0.00000E+00   0.18517E+00
+        GC_24 =  -0.00000E+00  -0.18517E+00
+        GC_61 =   0.00000E+00   0.00000E+00
+        GC_66 =   0.00000E+00   0.00000E+00
+        GC_77 =  -0.00000E+00  -0.28380E+00
+        GC_78 =   0.00000E+00   0.28380E+00
+        GC_89 =  -0.00000E+00  -0.28850E-01
+        GC_90 =   0.00000E+00   0.86550E-01
+        GC_98 =  -0.00000E+00  -0.21932E+03
+       GC_100 =   0.00000E+00   0.33771E+01
+       GC_101 =  -0.00000E+00  -0.00000E+00
+       GC_102 =   0.00000E+00   0.00000E+00
+       GC_105 =  -0.00000E+00  -0.00000E+00
+       GC_106 =   0.00000E+00   0.00000E+00
+        GC_35 =  -0.00000E+00  -0.20000E-03
+        GC_38 =  -0.00000E+00  -0.00000E+00
+        GC_40 =   0.00000E+00   0.52481E-04
+        GC_42 =   0.00000E+00   0.10496E-03
+        GC_43 =   0.00000E+00   0.50000E-04
+        GC_45 =   0.00000E+00   0.50000E-04
+        GC_49 =   0.00000E+00   0.50000E-04
+        GC_56 =  -0.00000E+00  -0.94000E-03
+        GC_58 =  -0.00000E+00  -0.35540E-03
+        GC_68 =   0.00000E+00   0.00000E+00
+
+ Collider parameters:
+ --------------------
+
+ Running at P P   machine @    13000.000000000000       GeV
+ PDF set = nn23lo1
+ alpha_s(Mz)= 0.1300 running at 2 loops.
+ alpha_s(Mz)= 0.1300 running at 2 loops.
+ Renormalization scale set on event-by-event basis
+ Factorization   scale set on event-by-event basis
+
+
+ getting user params
+Enter number of events and max and min iterations: 
+ Number of events and iterations         1000           5           3
+Enter desired fractional accuracy: 
+ Desired fractional accuracy:   0.10000000000000001     
+Enter 0 for fixed, 2 for adjustable grid: 
+Suppress amplitude (0 no, 1 yes)? 
+ Using suppressed amplitude.
+Exact helicity sum (0 yes, n = number/event)? 
+ Explicitly summing over helicities
+Enter Configuration Number: 
+Running Configuration Number:   20
+ Not subdividing B.W.
+ Attempting mappinvarients           1           8
+ Completed mapping           8
+ about to integrate           16        1000           5           3          16           1
+ Using non-zero grid deformation.
+ 16 dimensions   1000 events 16 invarients  5 iterations  1 config(s),  (0.99)
+ Using h-tuple random number sequence.
+ Error opening grid
+ Using Uniform Grid!          32
+ Using uniform alpha   1.0000000000000000     
+ Grid defined OK
+ Set CM energy to      13000.00
+ Mapping Graph          20  to config          20
+ Setting BW          -1           1   125.00000000000000     
+Setting grid   2    0.73920E-06   1
+ Setting BW          -3           3   600.00000000000000     
+ Setting BW          -4           4   91.187600000000003     
+Setting grid   5    0.25116E-02   1
+ Transforming s_hat 1/s           15   2.5115575576956360E-003   499.70131599999996        168999999.99999997     
+  20   1   2   3   4   5   6   7   8   9  10  11  12  13  14
+  15  16
+ Masses: 0.470E+01 0.470E+01 0.470E+01 0.470E+01 0.178E+01 0.178E+01 0.470E+01 0.470E+01
+Using random seed offsets    20 :     20
+  with seed                   24
+ Ranmar initialization seeds       31078        9417
+ 
+ ********************************************
+ * You are using the DiscreteSampler module *
+ *      part of the MG5_aMC framework       *
+ *         Author: Valentin Hirschi         *
+ ********************************************
+ 
+  Particle       3       4       5       6       7       8
+      Et >     0.0     0.0     0.0     0.0     0.0     0.0
+       E >     0.0     0.0     0.0     0.0     0.0     0.0
+     Eta <    -1.0    -1.0    -1.0    -1.0    -1.0    -1.0
+   xqcut:      0.0     0.0     0.0     0.0     0.0     0.0
+d R # 3  >    -0.0     0.0     0.0     0.0     0.0     0.0
+d R # 4  >    -0.0    -0.0     0.0     0.0     0.0     0.0
+d R # 5  >    -0.0    -0.0    -0.0     0.0     0.0     0.0
+d R # 6  >    -0.0    -0.0    -0.0    -0.0     0.0     0.0
+d R # 7  >    -0.0    -0.0    -0.0    -0.0    -0.0     0.0
+s min # 3>     0.0    88.4    42.0    42.0    88.4     0.0
+s min # 4>     0.0     0.0    42.0    42.0    88.4     0.0
+s min # 5>     0.0     0.0     0.0    12.6    42.0     0.0
+s min # 6>     0.0     0.0     0.0     0.0    42.0     0.0
+s min # 7>     0.0     0.0     0.0     0.0     0.0     0.0
+xqcutij # 3>     0.0     0.0     0.0     0.0     0.0     0.0
+xqcutij # 4>     0.0     0.0     0.0     0.0     0.0     0.0
+xqcutij # 5>     0.0     0.0     0.0     0.0     0.0     0.0
+xqcutij # 6>     0.0     0.0     0.0     0.0     0.0     0.0
+xqcutij # 7>     0.0     0.0     0.0     0.0     0.0     0.0
+ No cut BW           -1           1
+ No cut BW           -3           2
+ No cut BW           -4           3
+ alpha_s for scale    340.09913821323187       is   0.10667536897263026     
+ Added good helicity            1  0.27083957981732071       in event            1 local:           1
+ Added good helicity            2   1.2047218148010625E-002  in event            1 local:           1
+ Added good helicity            3   9.9459280771320661E-003  in event            1 local:           1
+ Added good helicity            4  0.79208935903777911       in event            1 local:           1
+ Added good helicity            5   1.0534173097186222E-002  in event            1 local:           1
+ Added good helicity            6   2.1969007359417021E-004  in event            1 local:           1
+ Added good helicity            7   2.9929375949272404E-004  in event            1 local:           1
+ Added good helicity            8   2.9527221789471270E-004  in event            1 local:           1
+ Added good helicity            9   1.0168032782017495E-002  in event            1 local:           1
+ Added good helicity           10   2.1490962159701084E-004  in event            1 local:           1
+ Added good helicity           11   2.8785569943000827E-004  in event            1 local:           1
+ Added good helicity           12   3.3312688541712292E-004  in event            1 local:           1
+ Added good helicity           13   17.971199691270606       in event            1 local:           1
+ Added good helicity           14  0.20165306790446058       in event            1 local:           1
+ Added good helicity           15   7.3287842955487934E-003  in event            1 local:           1
+ Added good helicity           16   5.8773570852013960E-003  in event            1 local:           1
+ Added good helicity           17   6.4542622687030037E-004  in event            1 local:           1
+ Added good helicity           18   2.8709210665584738E-005  in event            1 local:           1
+ Added good helicity           19   2.3701716107655120E-005  in event            1 local:           1
+ Added good helicity           20   1.8875942973057838E-003  in event            1 local:           1
+ Added good helicity           21   2.5103537673117922E-005  in event            1 local:           1
+ Added good helicity           22   5.2353402474033836E-007  in event            1 local:           1
+ Added good helicity           23   7.1323416631169453E-007  in event            1 local:           1
+ Added good helicity           24   7.0365060241177532E-007  in event            1 local:           1
+ Added good helicity           25   2.4231004337023395E-005  in event            1 local:           1
+ Added good helicity           26   5.1214193390434521E-007  in event            1 local:           1
+ Added good helicity           27   6.8597661424351494E-007  in event            1 local:           1
+ Added good helicity           28   7.9386044266074711E-007  in event            1 local:           1
+ Added good helicity           29   4.2826397887978596E-002  in event            1 local:           1
+ Added good helicity           30   4.8055080739005493E-004  in event            1 local:           1
+ Added good helicity           31   1.7464912619539809E-005  in event            1 local:           1
+ Added good helicity           32   1.4006078469142479E-005  in event            1 local:           1
+ Added good helicity           33   8.5511352545035359E-004  in event            1 local:           1
+ Added good helicity           34   3.8036313560090795E-005  in event            1 local:           1
+ Added good helicity           35   3.1401974658388360E-005  in event            1 local:           1
+ Added good helicity           36   2.5008395181212377E-003  in event            1 local:           1
+ Added good helicity           37   3.3259222676814665E-005  in event            1 local:           1
+ Added good helicity           38   6.9362075315679069E-007  in event            1 local:           1
+ Added good helicity           39   9.4495103705941640E-007  in event            1 local:           1
+ Added good helicity           40   9.3225394671560358E-007  in event            1 local:           1
+ Added good helicity           41   3.2103219053102759E-005  in event            1 local:           1
+ Added good helicity           42   6.7852757821059466E-007  in event            1 local:           1
+ Added good helicity           43   9.0883799969929820E-007  in event            1 local:           1
+ Added good helicity           44   1.0517713312192745E-006  in event            1 local:           1
+ Added good helicity           45   5.6739919383053006E-002  in event            1 local:           1
+ Added good helicity           46   6.3667306650663834E-004  in event            1 local:           1
+ Added good helicity           47   2.3138946606175248E-005  in event            1 local:           1
+ Added good helicity           48   1.8556399846902163E-005  in event            1 local:           1
+ Added good helicity           49   3.2561260682441974E-003  in event            1 local:           1
+ Added good helicity           50   1.4483577728196343E-004  in event            1 local:           1
+ Added good helicity           51   1.1957334931133476E-004  in event            1 local:           1
+ Added good helicity           52   9.5227692055990017E-003  in event            1 local:           1
+ Added good helicity           53   1.2664543214946762E-004  in event            1 local:           1
+ Added good helicity           54   2.6411892089293438E-006  in event            1 local:           1
+ Added good helicity           55   3.5982119489492222E-006  in event            1 local:           1
+ Added good helicity           56   3.5498636003044412E-006  in event            1 local:           1
+ Added good helicity           57   1.2224356804356365E-004  in event            1 local:           1
+ Added good helicity           58   2.5837169798835005E-006  in event            1 local:           1
+ Added good helicity           59   3.4606996785289522E-006  in event            1 local:           1
+ Added good helicity           60   4.0049653613084079E-006  in event            1 local:           1
+ Added good helicity           61  0.21605590967109514       in event            1 local:           1
+ Added good helicity           62   2.4243421570363148E-003  in event            1 local:           1
+ Added good helicity           63   8.8109151584753206E-005  in event            1 local:           1
+ Added good helicity           64   7.0659597206627157E-005  in event            1 local:           1
+ Added good helicity           65   1.7076207438291552E-002  in event            1 local:           1
+ Added good helicity           66   7.5956695948405052E-004  in event            1 local:           1
+ Added good helicity           67   6.2708238997413333E-004  in event            1 local:           1
+ Added good helicity           68   4.9940567082978150E-002  in event            1 local:           1
+ Added good helicity           69   6.6417074313788408E-004  in event            1 local:           1
+ Added good helicity           70   1.3851274143010908E-005  in event            1 local:           1
+ Added good helicity           71   1.8870219506067390E-005  in event            1 local:           1
+ Added good helicity           72   1.8616664694781386E-005  in event            1 local:           1
+ Added good helicity           73   6.4108590458674037E-004  in event            1 local:           1
+ Added good helicity           74   1.3549870670123564E-005  in event            1 local:           1
+ Added good helicity           75   1.8149059450900009E-005  in event            1 local:           1
+ Added good helicity           76   2.1003369605327469E-005  in event            1 local:           1
+ Added good helicity           77   1.1330690073071548       in event            1 local:           1
+ Added good helicity           78   1.2714056122916218E-002  in event            1 local:           1
+ Added good helicity           79   4.6207367839551388E-004  in event            1 local:           1
+ Added good helicity           80   3.7056241500413501E-004  in event            1 local:           1
+ Added good helicity           81   5.4147686631353285E-005  in event            1 local:           1
+ Added good helicity           82   2.4085438084715060E-006  in event            1 local:           1
+ Added good helicity           83   1.9884427421640988E-006  in event            1 local:           1
+ Added good helicity           84   1.5835870970607794E-004  in event            1 local:           1
+ Added good helicity           85   2.1060478094509090E-006  in event            1 local:           1
+ Added good helicity           86   4.3921605804512202E-008  in event            1 local:           1
+ Added good helicity           87   5.9836397289726010E-008  in event            1 local:           1
+ Added good helicity           88   5.9032389343874999E-008  in event            1 local:           1
+ Added good helicity           89   2.0328470938751670E-006  in event            1 local:           1
+ Added good helicity           90   4.2965872462756904E-008  in event            1 local:           1
+ Added good helicity           91   5.7549639599567603E-008  in event            1 local:           1
+ Added good helicity           92   6.6600495437969777E-008  in event            1 local:           1
+ Added good helicity           93   3.5928976478576099E-003  in event            1 local:           1
+ Added good helicity           94   4.0315551872095510E-005  in event            1 local:           1
+ Added good helicity           95   1.4652094634463066E-006  in event            1 local:           1
+ Added good helicity           96   1.1750324302109128E-006  in event            1 local:           1
+ Added good helicity           97   5.3515173253007174E-005  in event            1 local:           1
+ Added good helicity           98   2.3804089743545340E-006  in event            1 local:           1
+ Added good helicity           99   1.9652152191665471E-006  in event            1 local:           1
+ Added good helicity          100   1.5650887994052103E-004  in event            1 local:           1
+ Added good helicity          101   2.0814465107106052E-006  in event            1 local:           1
+ Added good helicity          102   4.3408545967645382E-008  in event            1 local:           1
+ Added good helicity          103   5.9137432585001777E-008  in event            1 local:           1
+ Added good helicity          104   5.8342816467568291E-008  in event            1 local:           1
+ Added good helicity          105   2.0091008719587636E-006  in event            1 local:           1
+ Added good helicity          106   4.2463976798588884E-008  in event            1 local:           1
+ Added good helicity          107   5.6877387113260205E-008  in event            1 local:           1
+ Added good helicity          108   6.5822517522573471E-008  in event            1 local:           1
+ Added good helicity          109   3.5509280648397781E-003  in event            1 local:           1
+ Added good helicity          110   3.9844615300269001E-005  in event            1 local:           1
+ Added good helicity          111   1.4480939660840910E-006  in event            1 local:           1
+ Added good helicity          112   1.1613065671438749E-006  in event            1 local:           1
+ Added good helicity          113   5.5215948342177406E-004  in event            1 local:           1
+ Added good helicity          114   2.4560611686673327E-005  in event            1 local:           1
+ Added good helicity          115   2.0276720680646105E-005  in event            1 local:           1
+ Added good helicity          116   1.6148291605133233E-003  in event            1 local:           1
+ Added good helicity          117   2.1475973266319199E-005  in event            1 local:           1
+ Added good helicity          118   4.4788120565859457E-007  in event            1 local:           1
+ Added good helicity          119   6.1016889682198092E-007  in event            1 local:           1
+ Added good helicity          120   6.0197019730836151E-007  in event            1 local:           1
+ Added good helicity          121   2.0729524584705520E-005  in event            1 local:           1
+ Added good helicity          122   4.3813531878691048E-007  in event            1 local:           1
+ Added good helicity          123   5.8685017309690378E-007  in event            1 local:           1
+ Added good helicity          124   6.7914434474418071E-007  in event            1 local:           1
+ Added good helicity          125   3.6637807312707105E-002  in event            1 local:           1
+ Added good helicity          126   4.1110923994064775E-004  in event            1 local:           1
+ Added good helicity          127   1.4941160939140737E-005  in event            1 local:           1
+ Added good helicity          128   1.1982142544450107E-005  in event            1 local:           1
+ Added good helicity          129   1.4138429432791998E-002  in event            1 local:           1
+ Added good helicity          130   6.2889162567001734E-004  in event            1 local:           1
+ Added good helicity          131   5.1919960279440448E-004  in event            1 local:           1
+ Added good helicity          132   4.1348829128942909E-002  in event            1 local:           1
+ Added good helicity          133   5.4990730331157614E-004  in event            1 local:           1
+ Added good helicity          134   1.1468311258978762E-005  in event            1 local:           1
+ Added good helicity          135   1.5623801001009698E-005  in event            1 local:           1
+ Added good helicity          136   1.5413867570552921E-005  in event            1 local:           1
+ Added good helicity          137   5.3079396318601326E-004  in event            1 local:           1
+ Added good helicity          138   1.1218761015014138E-005  in event            1 local:           1
+ Added good helicity          139   1.5026708784451773E-005  in event            1 local:           1
+ Added good helicity          140   1.7389965546441045E-005  in event            1 local:           1
+ Added good helicity          141  0.93813665945361835       in event            1 local:           1
+ Added good helicity          142   1.0526739379806473E-002  in event            1 local:           1
+ Added good helicity          143   3.8257886702032306E-004  in event            1 local:           1
+ Added good helicity          144   3.0681113320471070E-004  in event            1 local:           1
+ Added good helicity          145   4.2584933093439670E-005  in event            1 local:           1
+ Added good helicity          146   1.8942208488919543E-006  in event            1 local:           1
+ Added good helicity          147   1.5638286029040217E-006  in event            1 local:           1
+ Added good helicity          148   1.2454262549587756E-004  in event            1 local:           1
+ Added good helicity          149   1.6563201613330062E-006  in event            1 local:           1
+ Added good helicity          150   3.4542540243234775E-008  in event            1 local:           1
+ Added good helicity          151   4.7058870538340031E-008  in event            1 local:           1
+ Added good helicity          152   4.6426551288696729E-008  in event            1 local:           1
+ Added good helicity          153   1.5987508029888992E-006  in event            1 local:           1
+ Added good helicity          154   3.3790895197142383E-008  in event            1 local:           1
+ Added good helicity          155   4.5260429472901867E-008  in event            1 local:           1
+ Added good helicity          156   5.2378556105731046E-008  in event            1 local:           1
+ Added good helicity          157   2.8256665328523821E-003  in event            1 local:           1
+ Added good helicity          158   3.1706526832564286E-005  in event            1 local:           1
+ Added good helicity          159   1.1523271048223595E-006  in event            1 local:           1
+ Added good helicity          160   9.2411477823282702E-007  in event            1 local:           1
+ Added good helicity          161   4.6676500808724038E-005  in event            1 local:           1
+ Added good helicity          162   2.0762179147072070E-006  in event            1 local:           1
+ Added good helicity          163   1.7140815247494252E-006  in event            1 local:           1
+ Added good helicity          164   1.3650870243059001E-004  in event            1 local:           1
+ Added good helicity          165   1.8154596880622077E-006  in event            1 local:           1
+ Added good helicity          166   3.7861393466580622E-008  in event            1 local:           1
+ Added good helicity          167   5.1580294934849859E-008  in event            1 local:           1
+ Added good helicity          168   5.0887222342658923E-008  in event            1 local:           1
+ Added good helicity          169   1.7523590558407052E-006  in event            1 local:           1
+ Added good helicity          170   3.7037530234840361E-008  in event            1 local:           1
+ Added good helicity          171   4.9609059341707689E-008  in event            1 local:           1
+ Added good helicity          172   5.7411096808922494E-008  in event            1 local:           1
+ Added good helicity          173   3.0971570606080621E-003  in event            1 local:           1
+ Added good helicity          174   3.4752895398349400E-005  in event            1 local:           1
+ Added good helicity          175   1.2630428917696578E-006  in event            1 local:           1
+ Added good helicity          176   1.0129038854867507E-006  in event            1 local:           1
+ Added good helicity          177   4.5710556032539488E-004  in event            1 local:           1
+ Added good helicity          178   2.0332517151381622E-005  in event            1 local:           1
+ Added good helicity          179   1.6786095406439498E-005  in event            1 local:           1
+ Added good helicity          180   1.3368372914142022E-003  in event            1 local:           1
+ Added good helicity          181   1.7778897380515256E-005  in event            1 local:           1
+ Added good helicity          182   3.7077872538394931E-007  in event            1 local:           1
+ Added good helicity          183   5.0512868808573808E-007  in event            1 local:           1
+ Added good helicity          184   4.9834138976408646E-007  in event            1 local:           1
+ Added good helicity          185   1.7160949390654253E-005  in event            1 local:           1
+ Added good helicity          186   3.6271058707770888E-007  in event            1 local:           1
+ Added good helicity          187   4.8582426863002365E-007  in event            1 local:           1
+ Added good helicity          188   5.6223005411821844E-007  in event            1 local:           1
+ Added good helicity          189   3.0330630811562363E-002  in event            1 local:           1
+ Added good helicity          190   3.4033703145594903E-004  in event            1 local:           1
+ Added good helicity          191   1.2369049066537322E-005  in event            1 local:           1
+ Added good helicity          192   9.9194239094429547E-006  in event            1 local:           1
+ Added good helicity          193   3.0030228771846250       in event            1 local:           1
+ Added good helicity          194  0.13357749162552812       in event            1 local:           1
+ Added good helicity          195  0.11027874718534908       in event            1 local:           1
+ Added good helicity          196   8.7825511602453012       in event            1 local:           1
+ Added good helicity          197  0.11680110722520763       in event            1 local:           1
+ Added good helicity          198   2.4358859120171940E-003  in event            1 local:           1
+ Added good helicity          199   3.3185179483791443E-003  in event            1 local:           1
+ Added good helicity          200   3.2739277838672799E-003  in event            1 local:           1
+ Added good helicity          201  0.11274140611559560       in event            1 local:           1
+ Added good helicity          202   2.3828810789701346E-003  in event            1 local:           1
+ Added good helicity          203   3.1916946972793056E-003  in event            1 local:           1
+ Added good helicity          204   3.6936538543872982E-003  in event            1 local:           1
+ Added good helicity          205   199.26158443954145       in event            1 local:           1
+ Added good helicity          206   2.2358946819368568       in event            1 local:           1
+ Added good helicity          207   8.1260305145684553E-002  in event            1 local:           1
+ Added good helicity          208   6.5167128807937291E-002  in event            1 local:           1
+ Added good helicity          209   8.5754424042999069E-003  in event            1 local:           1
+ Added good helicity          210   3.8144434218212794E-004  in event            1 local:           1
+ Added good helicity          211   3.1491236783147929E-004  in event            1 local:           1
+ Added good helicity          212   2.5079483146698216E-002  in event            1 local:           1
+ Added good helicity          213   3.3353764148052713E-004  in event            1 local:           1
+ Added good helicity          214   6.9559241458501776E-006  in event            1 local:           1
+ Added good helicity          215   9.4763712092131606E-006  in event            1 local:           1
+ Added good helicity          216   9.3490393828475197E-006  in event            1 local:           1
+ Added good helicity          217   3.2194474509980120E-004  in event            1 local:           1
+ Added good helicity          218   6.8045633632208031E-006  in event            1 local:           1
+ Added good helicity          219   9.1142142993889061E-006  in event            1 local:           1
+ Added good helicity          220   1.0547610586108527E-005  in event            1 local:           1
+ Added good helicity          221  0.56901206238988555       in event            1 local:           1
+ Added good helicity          222   6.3848285048716258E-003  in event            1 local:           1
+ Added good helicity          223   2.3204720544318797E-004  in event            1 local:           1
+ Added good helicity          224   1.8609147602297884E-004  in event            1 local:           1
+ Added good helicity          225   1.4586458539650684E-002  in event            1 local:           1
+ Added good helicity          226   6.4882041300097439E-004  in event            1 local:           1
+ Added good helicity          227   5.3565238741430318E-004  in event            1 local:           1
+ Added good helicity          228   4.2659121695196846E-002  in event            1 local:           1
+ Added good helicity          229   5.6733317647018411E-004  in event            1 local:           1
+ Added good helicity          230   1.1831727667778786E-005  in event            1 local:           1
+ Added good helicity          231   1.6118899671020741E-005  in event            1 local:           1
+ Added good helicity          232   1.5902313713294628E-005  in event            1 local:           1
+ Added good helicity          233   5.4761415855372818E-004  in event            1 local:           1
+ Added good helicity          234   1.1574269489382600E-005  in event            1 local:           1
+ Added good helicity          235   1.5502886350547535E-005  in event            1 local:           1
+ Added good helicity          236   1.7941031757091365E-005  in event            1 local:           1
+ Added good helicity          237  0.96786503428085024       in event            1 local:           1
+ Added good helicity          238   1.0860318555972271E-002  in event            1 local:           1
+ Added good helicity          239   3.9470231177130677E-004  in event            1 local:           1
+ Added good helicity          240   3.1653359344242289E-004  in event            1 local:           1
+ Added good helicity          241  0.25952305034071638       in event            1 local:           1
+ Added good helicity          242   1.1543847483446019E-002  in event            1 local:           1
+ Added good helicity          243   9.5303559206069074E-003  in event            1 local:           1
+ Added good helicity          244  0.75899337437519310       in event            1 local:           1
+ Added good helicity          245   1.0094022213602798E-002  in event            1 local:           1
+ Added good helicity          246   2.1051073136057723E-004  in event            1 local:           1
+ Added good helicity          247   2.8678832489654170E-004  in event            1 local:           1
+ Added good helicity          248   2.8293481595485765E-004  in event            1 local:           1
+ Added good helicity          249   9.7431803923690285E-003  in event            1 local:           1
+ Added good helicity          250   2.0593002168311079E-004  in event            1 local:           1
+ Added good helicity          251   2.7582818295769185E-004  in event            1 local:           1
+ Added good helicity          252   3.1920779640947174E-004  in event            1 local:           1
+ Added good helicity          253   17.220306446002049       in event            1 local:           1
+ Added good helicity          254  0.19322736849772082       in event            1 local:           1
+ Added good helicity          255   7.0225646375350337E-003  in event            1 local:           1
+ Added good helicity          256   5.6317826209961652E-003  in event            1 local:           1
+ Added good helicity            1  0.27083957981731954       in event            1 local:           1
+ Added good helicity            2   1.2047218148010685E-002  in event            1 local:           1
+ Added good helicity            3   9.9459280771320730E-003  in event            1 local:           1
+ Added good helicity            4  0.79208935903777911       in event            1 local:           1
+ Added good helicity            5   1.0534173097186263E-002  in event            1 local:           1
+ Added good helicity            6   2.1969007359417072E-004  in event            1 local:           1
+ Added good helicity            7   2.9929375949272360E-004  in event            1 local:           1
+ Added good helicity            8   2.9527221789471373E-004  in event            1 local:           1
+ Added good helicity            9   1.0168032782017469E-002  in event            1 local:           1
+ Added good helicity           10   2.1490962159701092E-004  in event            1 local:           1
+ Added good helicity           11   2.8785569943000811E-004  in event            1 local:           1
+ Added good helicity           12   3.3312688541712346E-004  in event            1 local:           1
+ Added good helicity           13   17.971199691270602       in event            1 local:           1
+ Added good helicity           14  0.20165306790446066       in event            1 local:           1
+ Added good helicity           15   7.3287842955487934E-003  in event            1 local:           1
+ Added good helicity           16   5.8773570852014272E-003  in event            1 local:           1
+ Added good helicity           17   6.4542622687029940E-004  in event            1 local:           1
+ Added good helicity           18   2.8709210665584900E-005  in event            1 local:           1
+ Added good helicity           19   2.3701716107655114E-005  in event            1 local:           1
+ Added good helicity           20   1.8875942973057846E-003  in event            1 local:           1
+ Added good helicity           21   2.5103537673118007E-005  in event            1 local:           1
+ Added good helicity           22   5.2353402474033995E-007  in event            1 local:           1
+ Added good helicity           23   7.1323416631169337E-007  in event            1 local:           1
+ Added good helicity           24   7.0365060241177786E-007  in event            1 local:           1
+ Added good helicity           25   2.4231004337023300E-005  in event            1 local:           1
+ Added good helicity           26   5.1214193390434574E-007  in event            1 local:           1
+ Added good helicity           27   6.8597661424351398E-007  in event            1 local:           1
+ Added good helicity           28   7.9386044266074817E-007  in event            1 local:           1
+ Added good helicity           29   4.2826397887978609E-002  in event            1 local:           1
+ Added good helicity           30   4.8055080739005515E-004  in event            1 local:           1
+ Added good helicity           31   1.7464912619539792E-005  in event            1 local:           1
+ Added good helicity           32   1.4006078469142535E-005  in event            1 local:           1
+ Added good helicity           33   8.5511352545035240E-004  in event            1 local:           1
+ Added good helicity           34   3.8036313560091039E-005  in event            1 local:           1
+ Added good helicity           35   3.1401974658388373E-005  in event            1 local:           1
+ Added good helicity           36   2.5008395181212394E-003  in event            1 local:           1
+ Added good helicity           37   3.3259222676814807E-005  in event            1 local:           1
+ Added good helicity           38   6.9362075315679270E-007  in event            1 local:           1
+ Added good helicity           39   9.4495103705941555E-007  in event            1 local:           1
+ Added good helicity           40   9.3225394671560728E-007  in event            1 local:           1
+ Added good helicity           41   3.2103219053102677E-005  in event            1 local:           1
+ Added good helicity           42   6.7852757821059508E-007  in event            1 local:           1
+ Added good helicity           43   9.0883799969929703E-007  in event            1 local:           1
+ Added good helicity           44   1.0517713312192766E-006  in event            1 local:           1
+ Added good helicity           45   5.6739919383053047E-002  in event            1 local:           1
+ Added good helicity           46   6.3667306650663866E-004  in event            1 local:           1
+ Added good helicity           47   2.3138946606175245E-005  in event            1 local:           1
+ Added good helicity           48   1.8556399846902275E-005  in event            1 local:           1
+ Added good helicity           49   3.2561260682441909E-003  in event            1 local:           1
+ Added good helicity           50   1.4483577728196425E-004  in event            1 local:           1
+ Added good helicity           51   1.1957334931133486E-004  in event            1 local:           1
+ Added good helicity           52   9.5227692055990069E-003  in event            1 local:           1
+ Added good helicity           53   1.2664543214946817E-004  in event            1 local:           1
+ Added good helicity           54   2.6411892089293502E-006  in event            1 local:           1
+ Added good helicity           55   3.5982119489492159E-006  in event            1 local:           1
+ Added good helicity           56   3.5498636003044535E-006  in event            1 local:           1
+ Added good helicity           57   1.2224356804356318E-004  in event            1 local:           1
+ Added good helicity           58   2.5837169798835026E-006  in event            1 local:           1
+ Added good helicity           59   3.4606996785289467E-006  in event            1 local:           1
+ Added good helicity           60   4.0049653613084147E-006  in event            1 local:           1
+ Added good helicity           61  0.21605590967109514       in event            1 local:           1
+ Added good helicity           62   2.4243421570363161E-003  in event            1 local:           1
+ Added good helicity           63   8.8109151584753138E-005  in event            1 local:           1
+ Added good helicity           64   7.0659597206627496E-005  in event            1 local:           1
+ Added good helicity           65   1.7076207438291569E-002  in event            1 local:           1
+ Added good helicity           66   7.5956695948405713E-004  in event            1 local:           1
+ Added good helicity           67   6.2708238997413485E-004  in event            1 local:           1
+ Added good helicity           68   4.9940567082978338E-002  in event            1 local:           1
+ Added good helicity           69   6.6417074313788896E-004  in event            1 local:           1
+ Added good helicity           70   1.3851274143010979E-005  in event            1 local:           1
+ Added good helicity           71   1.8870219506067403E-005  in event            1 local:           1
+ Added good helicity           72   1.8616664694781498E-005  in event            1 local:           1
+ Added good helicity           73   6.4108590458674037E-004  in event            1 local:           1
+ Added good helicity           74   1.3549870670123608E-005  in event            1 local:           1
+ Added good helicity           75   1.8149059450900032E-005  in event            1 local:           1
+ Added good helicity           76   2.1003369605327567E-005  in event            1 local:           1
+ Added good helicity           77   1.1330690073071572       in event            1 local:           1
+ Added good helicity           78   1.2714056122916260E-002  in event            1 local:           1
+ Added good helicity           79   4.6207367839551464E-004  in event            1 local:           1
+ Added good helicity           80   3.7056241500413848E-004  in event            1 local:           1
+ Added good helicity           81   5.4147686631353299E-005  in event            1 local:           1
+ Added good helicity           82   2.4085438084715229E-006  in event            1 local:           1
+ Added good helicity           83   1.9884427421641026E-006  in event            1 local:           1
+ Added good helicity           84   1.5835870970607810E-004  in event            1 local:           1
+ Added good helicity           85   2.1060478094509175E-006  in event            1 local:           1
+ Added good helicity           86   4.3921605804512341E-008  in event            1 local:           1
+ Added good helicity           87   5.9836397289725957E-008  in event            1 local:           1
+ Added good helicity           88   5.9032389343875204E-008  in event            1 local:           1
+ Added good helicity           89   2.0328470938751624E-006  in event            1 local:           1
+ Added good helicity           90   4.2965872462756944E-008  in event            1 local:           1
+ Added good helicity           91   5.7549639599567610E-008  in event            1 local:           1
+ Added good helicity           92   6.6600495437969976E-008  in event            1 local:           1
+ Added good helicity           93   3.5928976478576133E-003  in event            1 local:           1
+ Added good helicity           94   4.0315551872095565E-005  in event            1 local:           1
+ Added good helicity           95   1.4652094634463079E-006  in event            1 local:           1
+ Added good helicity           96   1.1750324302109212E-006  in event            1 local:           1
+ Added good helicity           97   5.3515173253007174E-005  in event            1 local:           1
+ Added good helicity           98   2.3804089743545543E-006  in event            1 local:           1
+ Added good helicity           99   1.9652152191665526E-006  in event            1 local:           1
+ Added good helicity          100   1.5650887994052143E-004  in event            1 local:           1
+ Added good helicity          101   2.0814465107106175E-006  in event            1 local:           1
+ Added good helicity          102   4.3408545967645581E-008  in event            1 local:           1
+ Added good helicity          103   5.9137432585001817E-008  in event            1 local:           1
+ Added good helicity          104   5.8342816467568635E-008  in event            1 local:           1
+ Added good helicity          105   2.0091008719587611E-006  in event            1 local:           1
+ Added good helicity          106   4.2463976798588977E-008  in event            1 local:           1
+ Added good helicity          107   5.6877387113260231E-008  in event            1 local:           1
+ Added good helicity          108   6.5822517522573722E-008  in event            1 local:           1
+ Added good helicity          109   3.5509280648397847E-003  in event            1 local:           1
+ Added good helicity          110   3.9844615300269096E-005  in event            1 local:           1
+ Added good helicity          111   1.4480939660840918E-006  in event            1 local:           1
+ Added good helicity          112   1.1613065671438844E-006  in event            1 local:           1
+ Added good helicity          113   5.5215948342177167E-004  in event            1 local:           1
+ Added good helicity          114   2.4560611686673385E-005  in event            1 local:           1
+ Added good helicity          115   2.0276720680646054E-005  in event            1 local:           1
+ Added good helicity          116   1.6148291605133191E-003  in event            1 local:           1
+ Added good helicity          117   2.1475973266319232E-005  in event            1 local:           1
+ Added good helicity          118   4.4788120565859447E-007  in event            1 local:           1
+ Added good helicity          119   6.1016889682197870E-007  in event            1 local:           1
+ Added good helicity          120   6.0197019730836257E-007  in event            1 local:           1
+ Added good helicity          121   2.0729524584705391E-005  in event            1 local:           1
+ Added good helicity          122   4.3813531878690948E-007  in event            1 local:           1
+ Added good helicity          123   5.8685017309690092E-007  in event            1 local:           1
+ Added good helicity          124   6.7914434474417997E-007  in event            1 local:           1
+ Added good helicity          125   3.6637807312706994E-002  in event            1 local:           1
+ Added good helicity          126   4.1110923994064678E-004  in event            1 local:           1
+ Added good helicity          127   1.4941160939140663E-005  in event            1 local:           1
+ Added good helicity          128   1.1982142544450144E-005  in event            1 local:           1
+ Added good helicity          129   1.4138429432791944E-002  in event            1 local:           1
+ Added good helicity          130   6.2889162567002015E-004  in event            1 local:           1
+ Added good helicity          131   5.1919960279440350E-004  in event            1 local:           1
+ Added good helicity          132   4.1348829128942846E-002  in event            1 local:           1
+ Added good helicity          133   5.4990730331157776E-004  in event            1 local:           1
+ Added good helicity          134   1.1468311258978767E-005  in event            1 local:           1
+ Added good helicity          135   1.5623801001009633E-005  in event            1 local:           1
+ Added good helicity          136   1.5413867570552945E-005  in event            1 local:           1
+ Added good helicity          137   5.3079396318601066E-004  in event            1 local:           1
+ Added good helicity          138   1.1218761015014130E-005  in event            1 local:           1
+ Added good helicity          139   1.5026708784451722E-005  in event            1 local:           1
+ Added good helicity          140   1.7389965546441058E-005  in event            1 local:           1
+ Added good helicity          141  0.93813665945361691       in event            1 local:           1
+ Added good helicity          142   1.0526739379806452E-002  in event            1 local:           1
+ Added good helicity          143   3.8257886702032197E-004  in event            1 local:           1
+ Added good helicity          144   3.0681113320471222E-004  in event            1 local:           1
+ Added good helicity          145   4.2584933093439928E-005  in event            1 local:           1
+ Added good helicity          146   1.8942208488919770E-006  in event            1 local:           1
+ Added good helicity          147   1.5638286029040310E-006  in event            1 local:           1
+ Added good helicity          148   1.2454262549587832E-004  in event            1 local:           1
+ Added good helicity          149   1.6563201613330232E-006  in event            1 local:           1
+ Added good helicity          150   3.4542540243235046E-008  in event            1 local:           1
+ Added good helicity          151   4.7058870538340217E-008  in event            1 local:           1
+ Added good helicity          152   4.6426551288697113E-008  in event            1 local:           1
+ Added good helicity          153   1.5987508029889034E-006  in event            1 local:           1
+ Added good helicity          154   3.3790895197142595E-008  in event            1 local:           1
+ Added good helicity          155   4.5260429472902026E-008  in event            1 local:           1
+ Added good helicity          156   5.2378556105731456E-008  in event            1 local:           1
+ Added good helicity          157   2.8256665328523969E-003  in event            1 local:           1
+ Added good helicity          158   3.1706526832564469E-005  in event            1 local:           1
+ Added good helicity          159   1.1523271048223659E-006  in event            1 local:           1
+ Added good helicity          160   9.2411477823283814E-007  in event            1 local:           1
+ Added good helicity          161   4.6676500808724072E-005  in event            1 local:           1
+ Added good helicity          162   2.0762179147072205E-006  in event            1 local:           1
+ Added good helicity          163   1.7140815247494284E-006  in event            1 local:           1
+ Added good helicity          164   1.3650870243059037E-004  in event            1 local:           1
+ Added good helicity          165   1.8154596880622174E-006  in event            1 local:           1
+ Added good helicity          166   3.7861393466580767E-008  in event            1 local:           1
+ Added good helicity          167   5.1580294934849899E-008  in event            1 local:           1
+ Added good helicity          168   5.0887222342659181E-008  in event            1 local:           1
+ Added good helicity          169   1.7523590558407013E-006  in event            1 local:           1
+ Added good helicity          170   3.7037530234840420E-008  in event            1 local:           1
+ Added good helicity          171   4.9609059341707689E-008  in event            1 local:           1
+ Added good helicity          172   5.7411096808922686E-008  in event            1 local:           1
+ Added good helicity          173   3.0971570606080656E-003  in event            1 local:           1
+ Added good helicity          174   3.4752895398349468E-005  in event            1 local:           1
+ Added good helicity          175   1.2630428917696602E-006  in event            1 local:           1
+ Added good helicity          176   1.0129038854867599E-006  in event            1 local:           1
+ Added good helicity          177   4.5710556032539553E-004  in event            1 local:           1
+ Added good helicity          178   2.0332517151381815E-005  in event            1 local:           1
+ Added good helicity          179   1.6786095406439583E-005  in event            1 local:           1
+ Added good helicity          180   1.3368372914142077E-003  in event            1 local:           1
+ Added good helicity          181   1.7778897380515384E-005  in event            1 local:           1
+ Added good helicity          182   3.7077872538395122E-007  in event            1 local:           1
+ Added good helicity          183   5.0512868808573893E-007  in event            1 local:           1
+ Added good helicity          184   4.9834138976409006E-007  in event            1 local:           1
+ Added good helicity          185   1.7160949390654242E-005  in event            1 local:           1
+ Added good helicity          186   3.6271058707771020E-007  in event            1 local:           1
+ Added good helicity          187   4.8582426863002407E-007  in event            1 local:           1
+ Added good helicity          188   5.6223005411822162E-007  in event            1 local:           1
+ Added good helicity          189   3.0330630811562457E-002  in event            1 local:           1
+ Added good helicity          190   3.4033703145595017E-004  in event            1 local:           1
+ Added good helicity          191   1.2369049066537345E-005  in event            1 local:           1
+ Added good helicity          192   9.9194239094430479E-006  in event            1 local:           1
+ Added good helicity          193   3.0030228771846188       in event            1 local:           1
+ Added good helicity          194  0.13357749162552887       in event            1 local:           1
+ Added good helicity          195  0.11027874718534920       in event            1 local:           1
+ Added good helicity          196   8.7825511602453030       in event            1 local:           1
+ Added good helicity          197  0.11680110722520813       in event            1 local:           1
+ Added good helicity          198   2.4358859120171988E-003  in event            1 local:           1
+ Added good helicity          199   3.3185179483791395E-003  in event            1 local:           1
+ Added good helicity          200   3.2739277838672943E-003  in event            1 local:           1
+ Added good helicity          201  0.11274140611559524       in event            1 local:           1
+ Added good helicity          202   2.3828810789701359E-003  in event            1 local:           1
+ Added good helicity          203   3.1916946972792995E-003  in event            1 local:           1
+ Added good helicity          204   3.6936538543873034E-003  in event            1 local:           1
+ Added good helicity          205   199.26158443954145       in event            1 local:           1
+ Added good helicity          206   2.2358946819368581       in event            1 local:           1
+ Added good helicity          207   8.1260305145684497E-002  in event            1 local:           1
+ Added good helicity          208   6.5167128807937610E-002  in event            1 local:           1
+ Added good helicity          209   8.5754424042999086E-003  in event            1 local:           1
+ Added good helicity          210   3.8144434218213066E-004  in event            1 local:           1
+ Added good helicity          211   3.1491236783148026E-004  in event            1 local:           1
+ Added good helicity          212   2.5079483146698247E-002  in event            1 local:           1
+ Added good helicity          213   3.3353764148052892E-004  in event            1 local:           1
+ Added good helicity          214   6.9559241458502038E-006  in event            1 local:           1
+ Added good helicity          215   9.4763712092131589E-006  in event            1 local:           1
+ Added good helicity          216   9.3490393828475603E-006  in event            1 local:           1
+ Added good helicity          217   3.2194474509980060E-004  in event            1 local:           1
+ Added good helicity          218   6.8045633632208175E-006  in event            1 local:           1
+ Added good helicity          219   9.1142142993889061E-006  in event            1 local:           1
+ Added good helicity          220   1.0547610586108562E-005  in event            1 local:           1
+ Added good helicity          221  0.56901206238988622       in event            1 local:           1
+ Added good helicity          222   6.3848285048716319E-003  in event            1 local:           1
+ Added good helicity          223   2.3204720544318792E-004  in event            1 local:           1
+ Added good helicity          224   1.8609147602298017E-004  in event            1 local:           1
+ Added good helicity          225   1.4586458539650668E-002  in event            1 local:           1
+ Added good helicity          226   6.4882041300097927E-004  in event            1 local:           1
+ Added good helicity          227   5.3565238741430405E-004  in event            1 local:           1
+ Added good helicity          228   4.2659121695196908E-002  in event            1 local:           1
+ Added good helicity          229   5.6733317647018704E-004  in event            1 local:           1
+ Added good helicity          230   1.1831727667778825E-005  in event            1 local:           1
+ Added good helicity          231   1.6118899671020741E-005  in event            1 local:           1
+ Added good helicity          232   1.5902313713294692E-005  in event            1 local:           1
+ Added good helicity          233   5.4761415855372742E-004  in event            1 local:           1
+ Added good helicity          234   1.1574269489382618E-005  in event            1 local:           1
+ Added good helicity          235   1.5502886350547521E-005  in event            1 local:           1
+ Added good helicity          236   1.7941031757091412E-005  in event            1 local:           1
+ Added good helicity          237  0.96786503428085147       in event            1 local:           1
+ Added good helicity          238   1.0860318555972283E-002  in event            1 local:           1
+ Added good helicity          239   3.9470231177130607E-004  in event            1 local:           1
+ Added good helicity          240   3.1653359344242457E-004  in event            1 local:           1
+ Added good helicity          241  0.25952305034071599       in event            1 local:           1
+ Added good helicity          242   1.1543847483446092E-002  in event            1 local:           1
+ Added good helicity          243   9.5303559206069196E-003  in event            1 local:           1
+ Added good helicity          244  0.75899337437519332       in event            1 local:           1
+ Added good helicity          245   1.0094022213602841E-002  in event            1 local:           1
+ Added good helicity          246   2.1051073136057783E-004  in event            1 local:           1
+ Added good helicity          247   2.8678832489654137E-004  in event            1 local:           1
+ Added good helicity          248   2.8293481595485879E-004  in event            1 local:           1
+ Added good helicity          249   9.7431803923690077E-003  in event            1 local:           1
+ Added good helicity          250   2.0593002168311082E-004  in event            1 local:           1
+ Added good helicity          251   2.7582818295769157E-004  in event            1 local:           1
+ Added good helicity          252   3.1920779640947250E-004  in event            1 local:           1
+ Added good helicity          253   17.220306446002063       in event            1 local:           1
+ Added good helicity          254  0.19322736849772093       in event            1 local:           1
+ Added good helicity          255   7.0225646375350372E-003  in event            1 local:           1
+ Added good helicity          256   5.6317826209961964E-003  in event            1 local:           1
+ RESET CUMULATIVE VARIABLE
+ RESET CUMULATIVE VARIABLE
+ RESET CUMULATIVE VARIABLE
+ No points passed cuts!
+ Loosen cuts or increase max_events      500000
+ Deleting file events.lhe
+
+ls status:
+events.lhe
+grid_information
+input_app.txt
+results.dat
+run1_app.log

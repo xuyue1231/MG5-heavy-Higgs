@@ -1,0 +1,12 @@
+1       b b~ > u u~ ta- ta+ u u~,b b~ > c c~ ta- ta+ c c~
+mirror  b~ b > u u~ ta- ta+ u u~,b~ b > c c~ ta- ta+ c c~
+2       b b~ > c c~ ta- ta+ u u~,b b~ > u u~ ta- ta+ c c~
+mirror  b~ b > c c~ ta- ta+ u u~,b~ b > u u~ ta- ta+ c c~
+3       b b~ > d d~ ta- ta+ u u~,b b~ > s s~ ta- ta+ u u~,b b~ > d d~ ta- ta+ c c~,b b~ > s s~ ta- ta+ c c~
+mirror  b~ b > d d~ ta- ta+ u u~,b~ b > s s~ ta- ta+ u u~,b~ b > d d~ ta- ta+ c c~,b~ b > s s~ ta- ta+ c c~
+4       b b~ > u u~ ta- ta+ d d~,b b~ > c c~ ta- ta+ d d~,b b~ > u u~ ta- ta+ s s~,b b~ > c c~ ta- ta+ s s~
+mirror  b~ b > u u~ ta- ta+ d d~,b~ b > c c~ ta- ta+ d d~,b~ b > u u~ ta- ta+ s s~,b~ b > c c~ ta- ta+ s s~
+5       b b~ > d d~ ta- ta+ d d~,b b~ > s s~ ta- ta+ s s~
+mirror  b~ b > d d~ ta- ta+ d d~,b~ b > s s~ ta- ta+ s s~
+6       b b~ > s s~ ta- ta+ d d~,b b~ > d d~ ta- ta+ s s~
+mirror  b~ b > s s~ ta- ta+ d d~,b~ b > d d~ ta- ta+ s s~

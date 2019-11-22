@@ -1,0 +1,1 @@
+DIRNAME=P1_qq_wpx0_wp_qq_x0_tamtapqq

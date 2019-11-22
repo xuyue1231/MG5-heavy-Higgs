@@ -1,0 +1,64 @@
+1       u d~ > e+ ve e+ ve d u~,u d~ > mu+ vm mu+ vm d u~
+mirror  d~ u > e+ ve e+ ve d u~,d~ u > mu+ vm mu+ vm d u~
+2       u d~ > e+ ve e+ ve d c~,u d~ > mu+ vm mu+ vm d c~
+mirror  d~ u > e+ ve e+ ve d c~,d~ u > mu+ vm mu+ vm d c~
+3       u d~ > e+ ve e+ ve s u~,u d~ > mu+ vm mu+ vm s u~
+mirror  d~ u > e+ ve e+ ve s u~,d~ u > mu+ vm mu+ vm s u~
+4       u d~ > e+ ve e+ ve s c~,u d~ > mu+ vm mu+ vm s c~
+mirror  d~ u > e+ ve e+ ve s c~,d~ u > mu+ vm mu+ vm s c~
+5       u d~ > e+ ve mu+ vm d u~
+mirror  d~ u > e+ ve mu+ vm d u~
+6       u d~ > e+ ve mu+ vm d c~
+mirror  d~ u > e+ ve mu+ vm d c~
+7       u d~ > e+ ve mu+ vm s u~
+mirror  d~ u > e+ ve mu+ vm s u~
+8       u d~ > e+ ve mu+ vm s c~
+mirror  d~ u > e+ ve mu+ vm s c~
+9       u s~ > e+ ve e+ ve d u~,u s~ > mu+ vm mu+ vm d u~
+mirror  s~ u > e+ ve e+ ve d u~,s~ u > mu+ vm mu+ vm d u~
+10      u s~ > e+ ve e+ ve d c~,u s~ > mu+ vm mu+ vm d c~
+mirror  s~ u > e+ ve e+ ve d c~,s~ u > mu+ vm mu+ vm d c~
+11      u s~ > e+ ve e+ ve s u~,u s~ > mu+ vm mu+ vm s u~
+mirror  s~ u > e+ ve e+ ve s u~,s~ u > mu+ vm mu+ vm s u~
+12      u s~ > e+ ve e+ ve s c~,u s~ > mu+ vm mu+ vm s c~
+mirror  s~ u > e+ ve e+ ve s c~,s~ u > mu+ vm mu+ vm s c~
+13      u s~ > e+ ve mu+ vm d u~
+mirror  s~ u > e+ ve mu+ vm d u~
+14      u s~ > e+ ve mu+ vm d c~
+mirror  s~ u > e+ ve mu+ vm d c~
+15      u s~ > e+ ve mu+ vm s u~
+mirror  s~ u > e+ ve mu+ vm s u~
+16      u s~ > e+ ve mu+ vm s c~
+mirror  s~ u > e+ ve mu+ vm s c~
+17      c d~ > e+ ve e+ ve d u~,c d~ > mu+ vm mu+ vm d u~
+mirror  d~ c > e+ ve e+ ve d u~,d~ c > mu+ vm mu+ vm d u~
+18      c d~ > e+ ve e+ ve d c~,c d~ > mu+ vm mu+ vm d c~
+mirror  d~ c > e+ ve e+ ve d c~,d~ c > mu+ vm mu+ vm d c~
+19      c d~ > e+ ve e+ ve s u~,c d~ > mu+ vm mu+ vm s u~
+mirror  d~ c > e+ ve e+ ve s u~,d~ c > mu+ vm mu+ vm s u~
+20      c d~ > e+ ve e+ ve s c~,c d~ > mu+ vm mu+ vm s c~
+mirror  d~ c > e+ ve e+ ve s c~,d~ c > mu+ vm mu+ vm s c~
+21      c d~ > e+ ve mu+ vm d u~
+mirror  d~ c > e+ ve mu+ vm d u~
+22      c d~ > e+ ve mu+ vm d c~
+mirror  d~ c > e+ ve mu+ vm d c~
+23      c d~ > e+ ve mu+ vm s u~
+mirror  d~ c > e+ ve mu+ vm s u~
+24      c d~ > e+ ve mu+ vm s c~
+mirror  d~ c > e+ ve mu+ vm s c~
+25      c s~ > e+ ve e+ ve d u~,c s~ > mu+ vm mu+ vm d u~
+mirror  s~ c > e+ ve e+ ve d u~,s~ c > mu+ vm mu+ vm d u~
+26      c s~ > e+ ve e+ ve d c~,c s~ > mu+ vm mu+ vm d c~
+mirror  s~ c > e+ ve e+ ve d c~,s~ c > mu+ vm mu+ vm d c~
+27      c s~ > e+ ve e+ ve s u~,c s~ > mu+ vm mu+ vm s u~
+mirror  s~ c > e+ ve e+ ve s u~,s~ c > mu+ vm mu+ vm s u~
+28      c s~ > e+ ve e+ ve s c~,c s~ > mu+ vm mu+ vm s c~
+mirror  s~ c > e+ ve e+ ve s c~,s~ c > mu+ vm mu+ vm s c~
+29      c s~ > e+ ve mu+ vm d u~
+mirror  s~ c > e+ ve mu+ vm d u~
+30      c s~ > e+ ve mu+ vm d c~
+mirror  s~ c > e+ ve mu+ vm d c~
+31      c s~ > e+ ve mu+ vm s u~
+mirror  s~ c > e+ ve mu+ vm s u~
+32      c s~ > e+ ve mu+ vm s c~
+mirror  s~ c > e+ ve mu+ vm s c~
