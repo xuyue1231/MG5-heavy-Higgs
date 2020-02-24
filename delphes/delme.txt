@@ -1,0 +1,26 @@
+mkdir tmp_sig_Cf000_1
+pushd tmp_sig_Cf000_1
+cp /publicfs/atlas/atlasnew/higgs/tautau/TauEDM/plot_TauEDM/condor/ee2tata_sig.tgz .
+tar xf ee2tata_sig.tgz
+pushd ee2tata_sig
+seed=1
+cat Cards/run_card.dat | sed 's/0   = iseed/'$seed' = iseed/' > tmp.txt
+mv tmp.txt Cards/run_card.dat
+cp Cards/param_card_Cf000.dat Cards/param_card.dat
+./bin/generate_events -f run
+gunzip Events/run/unweighted_events.lhe.gz
+mv Events/run/unweighted_events.lhe /publicfs/atlas/atlasnew/higgs/tautau/TauEDM/plot_TauEDM/ntuple_sig/sig_Cf000_1.lhe
+popd
+popd
+rm -fr tmp_sig_Cf000_1
+/publicfs/atlas/atlasnew/higgs/tautau/pythia8219/examples/main_ee2tata /publicfs/atlas/atlasnew/higgs/tautau/TauEDM/plot_TauEDM/ntuple_sig/sig_Cf000_1.lhe /publicfs/atlas/atlasnew/higgs/tautau/TauEDM/plot_TauEDM/ntuple_sig/sig_Cf000_1.hepmc 1
+rm -f /publicfs/atlas/atlasnew/higgs/tautau/TauEDM/plot_TauEDM/ntuple_sig/sig_Cf000_1.lhe /publicfs/atlas/atlasnew/higgs/tautau/TauEDM/plot_TauEDM/ntuple_sig/sig_Cf000_1.root
+/publicfs/atlas/atlasnew/higgs/tautau/delphes/DelphesHepMC /publicfs/atlas/atlasnew/higgs/tautau/delphes/cards/delphes_card_taufactory.tcl /publicfs/atlas/atlasnew/higgs/tautau/TauEDM/plot_TauEDM/ntuple_sig/sig_Cf000_1.root /publicfs/atlas/atlasnew/higgs/tautau/TauEDM/plot_TauEDM/ntuple_sig/sig_Cf000_1.hepmc
+rm -f /publicfs/atlas/atlasnew/higgs/tautau/TauEDM/plot_TauEDM/ntuple_sig/sig_Cf000_1.hepmc
+
+root -l -b -q run_ana.cc"(1,\"/Users/harry/atlas/Htautau/ChargedHiggs/MG5_aMC_v2_4_3/delphes/sig_Cf000_red_1b.root\",\"sig_Cf000_ana1_1.root\",1)"
+root -l -b -q run_ana.cc"(1,\"/Users/harry/atlas/Htautau/ChargedHiggs/MG5_aMC_v2_4_3/delphes/sig_Cf000_red_1b.root\",\"sig_Cf000_ana2_1.root\",2)"
+root -l -b -q run_ana.cc"(1,\"/Users/harry/atlas/Htautau/ChargedHiggs/MG5_aMC_v2_4_3/delphes/sig_Cf000_red_1b.root\",\"sig_Cf000_ana3_1.root\",3)"
+root -l -b -q run_ana.cc"(1,\"/Users/harry/atlas/Htautau/ChargedHiggs/MG5_aMC_v2_4_3/delphes/sig_Cf000_red_1b.root\",\"sig_Cf000_ana4_1.root\",4)"
+root -l -b -q run_ana.cc"(1,\"/Users/harry/atlas/Htautau/ChargedHiggs/MG5_aMC_v2_4_3/delphes/sig_Cf000_red_1b.root\",\"sig_Cf000_ana5_1.root\",5)"
+root -l -b -q run_ana.cc"(1,\"/Users/harry/atlas/Htautau/ChargedHiggs/MG5_aMC_v2_4_3/delphes/sig_Cf000_red_1b.root\",\"sig_Cf000_ana6_1.root\",6)"
